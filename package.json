@@ -1,6 +1,6 @@
 {
   "name": "react-native-fast-scripts",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "CLI to generate type-safe ThemeProvider and theme files for React Native",
   "bin": {
     "react-native-fast-scripts": "./bin/cli.js"
