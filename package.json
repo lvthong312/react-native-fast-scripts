@@ -22,13 +22,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lvthong312/react-native-fast-calendar.git"
+    "url": "git+https://github.com/lvthong312/react-native-fast-scripts.git"
   },
   "author": "Thong Luong <lvthong312@gmail.com> (https://github.com/lvthong312)",
   "bugs": {
-    "url": "https://github.com/lvthong312/react-native-fast-calendar/issues"
+    "url": "https://github.com/lvthong312/react-native-fast-scripts/issues"
   },
-  "homepage": "https://github.com/lvthong312/react-native-fast-calendar#readme",
+  "homepage": "https://github.com/lvthong312/react-native-fast-scripts#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   }
